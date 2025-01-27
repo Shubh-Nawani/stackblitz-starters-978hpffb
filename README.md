@@ -6,7 +6,7 @@ Design a user management system for a web application to handle user authenticat
 
 ---
 
-create schema.js file and creat the schema in that file.
+create schema.js file and create the schema in that file.
 
 ## **Schema Requirements**
 
